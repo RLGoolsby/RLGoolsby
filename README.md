@@ -2,7 +2,7 @@
 
 ### Frontend Developer | Enterprise eCommerce Optimization | Web Accessibility (a11y) Specialist
 
-I am a performance-driven Frontend Engineer with over 8 years of experience architecting and scaling high-traffic user interfaces within complex enterprise eCommerce ecosystems.
+I am a performance-driven Frontend Developer with over 8 years of experience building and optimizing high-traffic user interfaces within complex enterprise eCommerce ecosystems.
 
 I am currently leveraging my deep, foundational JavaScript and DOM optimization experience to build modern, component-driven declarative interfaces utilizing **React** and **TypeScript**. 
 
