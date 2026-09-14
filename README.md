@@ -1,6 +1,6 @@
 ## Hello, I'm Rhonda Goolsby 
 
-### Frontend Developer | Enterprise eCommerce Optimization | Web Accessibility (a11y) Specialist
+### Frontend Developer | Environmentally and Socially Conscious 
 
 Persistently curious Frontend Developer with 8+ years of experience building and optimizing high-traffic user interfaces within complex enterprise eCommerce ecosystems.
 
